@@ -16,7 +16,7 @@ This project implements **Linear Regression, Locally Weighted Linear Regression 
 - Analyze overfitting using **Mean Squared Error (MSE)**.
 
 #### **📌 Training Data Plotted**
-![Q1 Training Data Plot](Q1_B_pic_size_128_k_2.png)
+![Q1 Training Data Plot](Q1_B_pic_size_128_k_2(Training_data_plotted).png)
 
 #### **📌 Model Performance with Reduced Data**
 ![Q1 Reduced Data Plot](Q1_D_pic_size_20_k_2.png)
