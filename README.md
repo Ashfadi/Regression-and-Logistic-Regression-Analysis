@@ -16,10 +16,10 @@ This project implements **Linear Regression, Locally Weighted Linear Regression 
 - Analyze overfitting using **Mean Squared Error (MSE)**.
 
 #### **📌 Training Data Plotted**
-![Q1 Training Data Plot](plots/Q1_B_pic_size_128_k_2.png)
+![Q1 Training Data Plot](Q1_B_pic_size_128_k_2.png)
 
 #### **📌 Model Performance with Reduced Data**
-![Q1 Reduced Data Plot](plots/Q1_D_pic_size_20_k_2.png)
+![Q1 Reduced Data Plot](Q1_D_pic_size_20_k_2.png)
 
 📌 **Key Insight**: Higher complexity improves accuracy but excessive `d` values lead to **overfitting**.
 
@@ -31,10 +31,10 @@ This project implements **Linear Regression, Locally Weighted Linear Regression 
 - Evaluate **MSE** for different training data sizes.
 
 #### **📌 LWLR Model Output (128 Training Data)**
-![Q2 LWLR Full Dataset](plots/Q2_B_Pic_size_128.png)
+![Q2 LWLR Full Dataset](Q2_B_Pic_size_128.png)
 
 #### **📌 LWLR Model Output (20 Training Data)**
-![Q2 LWLR Reduced Dataset](plots/Q2_D_Pic_size_20.png)
+![Q2 LWLR Reduced Dataset](Q2_D_Pic_size_20.png)
 
 📌 **Key Insight**: **LWLR adapts better to non-linear datasets**, but small training sets increase error.
 
@@ -46,12 +46,12 @@ This project implements **Linear Regression, Locally Weighted Linear Regression 
 - Analyze the impact of **removing "Age"** as a feature.
 
 #### **📌 3D Decision Boundary**
-![Q3 3D Decision Boundary](plots/Q3_3D_plot_01.png)
+![Q3 3D Decision Boundary](Q3_3D_plot_01.png)
 
 #### **📌 Alternative 3D View**
-![Q3 3D Alternative](plots/Q3_3D_plot_02.png)
+![Q3 3D Alternative](Q3_3D_plot_02.png)
 
 #### **📌 Decision Boundary Without "Age" Feature**
-![Q3 3D Without Age](plots/Q3_B_3D_plot_03.png)
+![Q3 3D Without Age](Q3_B_3D_plot_03.png)
 
 📌 **Key Insight**: Logistic regression performs well, but removing "Age" slightly decreases accuracy.
