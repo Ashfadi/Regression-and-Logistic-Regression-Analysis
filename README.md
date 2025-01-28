@@ -34,7 +34,7 @@ This project implements **Linear Regression, Locally Weighted Linear Regression 
 ![Q2 LWLR Full Dataset](Q2_B_Pic_size_128.png)
 
 #### **📌 LWLR Model Output (20 Training Data)**
-![Q2 LWLR Reduced Dataset](Q2_D_Pic_size_20.png)
+![Q3 3D Without Age](Q3_B_3D_plot_03.png)
 
 📌 **Key Insight**: **LWLR adapts better to non-linear datasets**, but small training sets increase error.
 
